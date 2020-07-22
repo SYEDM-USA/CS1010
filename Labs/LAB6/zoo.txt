@@ -1,0 +1,453 @@
+2341
+Killer Whale
+2
+1880
+Elephant
+282
+1763
+Lion
+190
+1634
+Long-eared Owl
+98
+1946
+Quokka
+324
+1796
+Lion
+216
+1679
+Snow Leopard
+124
+1553
+Black Lion Tamarin
+32
+1871
+Elephant
+273
+1754
+Lion
+181
+1625
+Cape Thick-knee
+89
+1955
+Quokka
+331
+1793
+Lion
+215
+1676
+Snow Leopard
+123
+1550
+Black Lion Tamarin
+31
+1958
+Quokka
+332
+1883
+Elephant
+283
+1805
+Siberian Tiger
+224
+1766
+Lion
+191
+1688
+Snow Leopard
+132
+1637
+Long-eared Owl
+99
+1562
+Black Lion Tamarin
+40
+1523
+Meerkat
+7
+1910
+Orangutan
+294
+1781
+Lion
+202
+1664
+Long-eared Owl
+110
+1538
+Emperor Penguin
+18
+1907
+Orangutan
+293
+1778
+Lion
+201
+1661
+Long-eared Owl
+109
+1535
+Emperor Penguin
+17
+1931
+Quokka
+318
+1904
+Orangutan
+292
+1859
+Elephant
+259
+1826
+Siberian Tiger
+233
+1775
+Lion
+200
+1742
+Red Panda
+167
+1709
+Red Panda
+141
+1658
+Long-eared Owl
+108
+1613
+Cape Thick-knee
+75
+1580
+Guinea Pig
+49
+1532
+Emperor Penguin
+16
+1961
+Quokka
+335
+1874
+Elephant
+277
+1835
+Siberian Tiger
+246
+1799
+Lion
+219
+1757
+Lion
+185
+1718
+Red Panda
+154
+1682
+Snow Leopard
+127
+1628
+Long-eared Owl
+93
+1589
+Guinea Pig
+62
+1556
+Black Lion Tamarin
+35
+1916
+Orangutan
+301
+1877
+Elephant
+279
+1838
+Siberian Tiger
+248
+1802
+Lion
+221
+1760
+Lion
+187
+1721
+Red Panda
+156
+1685
+Snow Leopard
+129
+1631
+Long-eared Owl
+95
+1592
+Guinea Pig
+64
+1559
+Black Lion Tamarin
+37
+1934
+Quokka
+320
+1901
+Orangutan
+290
+1856
+Elephant
+257
+1823
+Siberian Tiger
+231
+1739
+Red Panda
+165
+1706
+Red Panda
+139
+1655
+Long-eared Owl
+106
+1610
+Cape Thick-knee
+73
+1577
+Guinea Pig
+47
+1529
+Emperor Penguin
+14
+1919
+Orangutan
+306
+1949
+Quokka
+327
+1952
+Quokka
+328
+1868
+Elephant
+270
+1865
+Elephant
+269
+1832
+Siberian Tiger
+241
+1790
+Lion
+211
+1787
+Lion
+210
+1751
+Red Panda
+178
+1748
+Red Panda
+177
+1715
+Red Panda
+149
+1673
+Snow Leopard
+119
+1670
+Snow Leopard
+118
+1622
+Cape Thick-knee
+86
+1619
+Cape Thick-knee
+85
+1586
+Guinea Pig
+57
+1547
+Emperor Penguin
+27
+1544
+Emperor Penguin
+26
+1928
+Orangutan
+310
+1898
+Orangutan
+289
+1853
+Elephant
+256
+1820
+Siberian Tiger
+230
+1736
+Red Panda
+164
+1703
+Snow Leopard
+138
+1652
+Long-eared Owl
+105
+1607
+Cape Thick-knee
+72
+1574
+Guinea Pig
+46
+1526
+Emperor Penguin
+13
+1937
+Quokka
+321
+1895
+Orangutan
+288
+1850
+Elephant
+255
+1817
+Siberian Tiger
+229
+1733
+Red Panda
+163
+1700
+Snow Leopard
+137
+1649
+Long-eared Owl
+104
+1604
+Cape Thick-knee
+71
+1571
+Guinea Pig
+45
+1514
+Meerkat
+3
+1940
+Quokka
+322
+1892
+Orangutan
+287
+1847
+Elephant
+254
+1814
+Siberian Tiger
+228
+1730
+Red Panda
+162
+1697
+Snow Leopard
+136
+1646
+Long-eared Owl
+103
+1601
+Cape Thick-knee
+70
+1568
+Black Lion Tamarin
+44
+1517
+Meerkat
+4
+1925
+Orangutan
+309
+1913
+Orangutan
+297
+1862
+Elephant
+262
+1829
+Siberian Tiger
+236
+1784
+Lion
+205
+1745
+Red Panda
+170
+1712
+Red Panda
+144
+1667
+Snow Leopard
+113
+1616
+Cape Thick-knee
+78
+1583
+Guinea Pig
+52
+1541
+Emperor Penguin
+21
+1922
+Orangutan
+308
+1889
+Orangutan
+286
+1844
+Siberian Tiger
+253
+1811
+Siberian Tiger
+227
+1772
+Lion
+194
+1727
+Red Panda
+161
+1694
+Snow Leopard
+135
+1643
+Long-eared Owl
+102
+1598
+Cape Thick-knee
+69
+1565
+Black Lion Tamarin
+43
+1520
+Meerkat
+5
+1943
+Quokka
+323
+1886
+Orangutan
+285
+1841
+Siberian Tiger
+252
+1808
+Siberian Tiger
+226
+1769
+Lion
+193
+1724
+Red Panda
+160
+1691
+Snow Leopard
+134
+1640
+Long-eared Owl
+101
+1595
+Cape Thick-knee
+68
