@@ -4,3 +4,4 @@ Write python code
 ### user input
 ### arithmetic 
 ### print
+### printing floats with precision
